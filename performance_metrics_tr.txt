@@ -1,0 +1,13 @@
+Eğitim (Train) sonucu:
+Accuracy: 1.000
+TPrate: 1.000
+TNrate: 1.000
+TP adedi: 208
+TN adedi: 282
+
+Sınama (Test) sonucu:
+Accuracy: 0.770
+TPrate: 0.758
+TNrate: 0.782
+TP adedi: 99
+TN adedi: 101

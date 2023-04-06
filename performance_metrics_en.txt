@@ -1,0 +1,13 @@
+Train Performance Metrics
+Accuracy: 1.000
+TP rate: 1.000
+TN rate: 1.000
+TP count: 208
+TN count: 282
+
+Test Performance Metrics
+Accuracy: 0.770
+TP rate: 0.758
+TN rate: 0.782
+TP count: 99
+TN count: 101
